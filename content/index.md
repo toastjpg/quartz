@@ -10,6 +10,10 @@ This page is where I put interesting information or something idk lol.
 
 On this site you can find:
 
+
+something new 
+
+
 - Experience
 - Coursework
 - Projects
