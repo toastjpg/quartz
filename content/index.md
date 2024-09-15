@@ -8,11 +8,11 @@ I am a 4th year [Computing Science](https://www.sfu.ca/computing.html) student a
 
 I enjoy learning cool things about software development, distributed systems, and system design. 
 
-Aside from that, I also like to explore the outdoors, play electric guitar, and doom scroll reels (mostly this one). 
+I also like to spend my time exploring the outdoors, playing electric guitar, and doom scrolling reels (mostly this). 
 
 On this site, you can find:
 - [Experience](about/experience.md) or summary of what I've done.
 - [Projects](about/projects) that I've worked on. 
 - [Posts](posts/) about semi-relevant topics.
 
-I also have a [Substack](https://toastjpg.substack.com/), which holds a collection of random writings about whatever I find interesting.
+I also have a [Substack](https://toastjpg.substack.com/), where I sometimes write about things that interest me. 
