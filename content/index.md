@@ -1,21 +1,19 @@
 ---
-title: Hello World
+title: Home
 ---
 
-My name is Johnny. 
+Hi, my name is Johnny.
 
-I am currently a 4th year Computing Science student at Simon Fraser University. 
+I am a 4th year [Computing Science](https://www.sfu.ca/computing.html) student at Simon Fraser University. 
 
-This page is where I put interesting information or something idk lol.
+I enjoy learning cool things about software development, distributed systems, and system design. 
 
-On this site you can find:
+In my free time I like to explore the outdoors, play electric guitar, and doom scroll instagram reels (mostly this one). 
 
+On this site, you can find:
+- [Experience](about/experience.md) or summary of what I've done.
+- [Projects](about/projects) that I've worked on. 
+- [Posts](posts/) about semi-relevant topics.
 
-something new 
-
-
-- Experience
-- Coursework
-- Projects
-- Posts 
+I also have a [Substack](https://toastjpg.substack.com/), which holds a collection of random writings about whatever I find interesting.
 
