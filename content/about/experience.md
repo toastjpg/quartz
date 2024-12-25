@@ -2,22 +2,26 @@
 title: Experience
 ---
 ## Education
-> **Simon Fraser University** (Sept. 2020 - Present)\
-> Bachelor of Science, Major in Computing Science\
-> Cumulative GPA: 3.79/4.33
+> **Simon Fraser University** (Sept. 2020 -- Present)
+> - Bachelor of Science, Major in Computing Science
+> - Cumulative GPA: 3.81/4.33
 
 ## Work Experience
-> **Agile Developer Intern** @ *SAP* (May 2022 – Dec. 2022)\
+> **Software Engineer Co-op** @ *Planview* (Jan. 2025 -- Aug. 2025)
+> - Fullstack development for Planview Hub
+> - More details incoming :D
+
+> **Agile Developer Intern** @ *SAP* (May 2022 –- Dec. 2022)\
 > *JavaScript, Python, Java, Jasmine, Selenium, Docker, Jenkins*
-> - Supported full-stack feature development for SAP Analytics Cloud & Analytics Hub products
-> - Led the migration of message queue providers from RabbitMQ to Solace, coordinating with cross-team dependencies to transition GDPR data deletion workflows with zero service downtime
-> - Implemented a data transfer pipeline using Python, Pandas, and Airflow to relocate system data between platforms, improving product support for 200+ customers
-> - Wrote automated test scripts with Jasmine and Selenium to maintain 95% code coverage
-> - Conducted bi-weekly service deployments to 10+ global production landscapes using Jenkins
+> - Fullstack development for SAP Analytics Cloud & Analytics Hub (mainly with JavaScript)
+> - Migrated message queue providers for backend data deletion workflows, and coordinated with cross-team dependencies to ensure zero service downtime
+> - Created a data transfer pipeline w/ Airflow to migrate user data between cloud platform regions
+> - Wrote automated unit and integration tests with Jasmine and Selenium
+> - Used Jenkins to conduct bi-weekly service deployments to production landscapes
 
 ---
 
-## Courses
+## Coursework
 
 Every course I have ever taken. 
 
@@ -53,10 +57,10 @@ Every course I have ever taken.
 - COGS 110 - Learning in Everyday Life
 
 **Fall 2022**
-- Agile Developer Intern @ SAP - HANA & Analytics
+- *Agile Developer Intern @ SAP - HANA & Analytics*
 
 **Summer 2022**
-- Agile Developer Intern @ SAP - HANA & Analytics
+- *Agile Developer Intern @ SAP - HANA & Analytics*
 
 **Spring 2022**
 - CMPT 354 - Database Systems
