@@ -11,7 +11,7 @@ title: Experience
 > - Fullstack development for Planview Hub
 > - More details incoming :D
 
-> **Agile Developer Intern** @ *SAP* (May 2022 –- Dec. 2022)\
+> **Agile Developer Intern** @ *SAP* (May 2022 -- Dec. 2022)\
 > *JavaScript, Python, Java, Jasmine, Selenium, Docker, Jenkins*
 > - Fullstack development for SAP Analytics Cloud & Analytics Hub (mainly with JavaScript)
 > - Migrated message queue providers for backend data deletion workflows, and coordinated with cross-team dependencies to ensure zero service downtime

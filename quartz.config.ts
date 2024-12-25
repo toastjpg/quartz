@@ -28,26 +28,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#fafbfa", // page background
-          lightgray: "#e5e5e5", // borders + search box bg
-          gray: "#b8b8b8", // graph links + heavier borders 
-          darkgray: "#2f2f2f", // body text
-          dark: "#2b2b2b", // header text + icons
-          secondary: "#5d7467", // link color + current graph node
-          tertiary: "#5d7467", // hover states + visited graph node
-          highlight: "rgba(143, 159, 169, 0.15)", // internal link background
-          textHighlight: "#fff23688", // markdown highlighted text background
+          light: "#f9f9f7", // page background
+          lightgray: "#e2e3e0", // borders + search box bg
+          gray: "#414844", // graph links + heavier borders 
+          darkgray: "#1a1c1b", // body text
+          dark: "#1a1c1b", // header text + icons
+          secondary: "#416655", // link color + current graph node
+          tertiary: "#416655", // hover states + visited graph node
+          highlight: "#e2e3e0", // internal link background
+          textHighlight: "#505f7b", // markdown highlighted text background
         },
         darkMode: {
-          light: "#1a1a1b", // page background
-          lightgray: "#393639", // borders + search box bg
-          gray: "#646464", // graph links + heavier borders 
-          darkgray: "#d4d4d4", // body text
-          dark: "#ebebec", // header text + icons
-          secondary: "#8ca296", // link color + current graph node
-          tertiary: "#8ca296", // hover states + visited graph node
-          highlight: "rgba(143, 159, 169, 0.15)", // internal link background
-          textHighlight: "#b3aa0288", // markdown highlighted text background
+          light: "#121412", // page background
+          lightgray: "#333534", // borders + search box bg
+          gray: "#414844", // graph links + heavier borders 
+          darkgray: "#e2e3e0", // body text
+          dark: "#e2e3e0", // header text + icons
+          secondary: "#769d8a", // link color + current graph node
+          tertiary: "#769d8a", // hover states + visited graph node
+          highlight: "#333534", // internal link background
+          textHighlight: "#b8c7e7", // markdown highlighted text background
         },
       },
     },
