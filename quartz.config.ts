@@ -27,27 +27,28 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
+        // Using material theme builder w/ default source color of:( #769CDF)
         lightMode: {
-          light: "#f9f9f7", // page background
-          lightgray: "#e2e3e0", // borders + search box bg
-          gray: "#414844", // graph links + heavier borders 
-          darkgray: "#1a1c1b", // body text
-          dark: "#1a1c1b", // header text + icons
-          secondary: "#416655", // link color + current graph node
-          tertiary: "#416655", // hover states + visited graph node
-          highlight: "#e2e3e0", // internal link background
-          textHighlight: "#505f7b", // markdown highlighted text background
+          light: "#f9f9ff", // page background (surface)
+          lightgray: "#e2e2e9", // borders + search box bg (surface container highest)
+          gray: "#ffffff", // graph links + heavier borders 
+          darkgray: "#191c20", // body text (on surface)
+          dark: "#191c20", // header text + icons (on surface)
+          secondary: "#415f91", // link color + current graph node (primary on light palette)
+          tertiary: "#769cdf", // hover states + visited graph node (primary)
+          highlight: "#ededf4", // internal link background (surface container)
+          textHighlight: "#565f71", // markdown highlighted text background (?? secondary)
         },
         darkMode: {
-          light: "#1a1a1b", // page background
-          lightgray: "#393639", // borders + search box bg
-          gray: "#646464", // graph links + heavier borders 
-          darkgray: "#e2e3e0", // body text
-          dark: "#e2e3e0", // header text + icons
-          secondary: "#769d8a", // link color + current graph node
-          tertiary: "#769d8a", // hover states + visited graph node
-          highlight: "#393639", // internal link background
-          textHighlight: "#b3aa0288", // markdown highlighted text background
+          light: "#111318", // page background (surface)
+          lightgray: "#33353a", // borders + search box bg (surface container highest)
+          gray: "#ffffff", // graph links + heavier borders (??? unused)
+          darkgray: "#e2e2e9", // body text (on surface)
+          dark: "#e2e2e9", // header text + icons (on surface)
+          secondary: "#769cdf", // link color + current graph node (primary)
+          tertiary: "#aac7ff", // hover states + visited graph node (primary on dark palette)
+          highlight: "#1d2024", // internal link background (surface container)
+          textHighlight: "#bec6dc", // markdown highlighted text background (?? secondary)
         },
       },
     },
@@ -68,7 +69,7 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", openLinksInNewTab: true }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
