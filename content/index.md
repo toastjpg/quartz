@@ -6,7 +6,7 @@ Hi 👋, I'm Johnny.
 
 I'm a 4th-year [Computer Science](https://www.sfu.ca/computing.html) student at Simon Fraser University. 
 
-Currently, I'm Software Engineer Co-op at [Planview](https://www.planview.com/), working on a product that [integrates software tools](https://www.planview.com/products-solutions/products/hub).
+Currently, I'm a Software Engineer Co-op at [Planview](https://www.planview.com/), working on a product that [integrates software tools](https://www.planview.com/products-solutions/products/hub).
 
 In general, I enjoy learning about software development and the strategies for building software at scale. 
 I've also enjoyed learning about 
