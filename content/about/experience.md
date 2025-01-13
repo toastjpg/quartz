@@ -7,18 +7,19 @@ title: Experience
 > - Cumulative GPA: 3.81/4.33
 
 ## Work Experience
-> **Software Engineer Co-op** @ *Planview* (Jan. 2025 -- Aug. 2025)
-> - Fullstack development for Planview Hub
-> - More details incoming :D
+> **Software Engineer Co-op** @ [*Planview*](https://www.planview.com/) (Jan. 2025 -- Aug. 2025)\
+> *Java, JavaScript, Springboot, React*
+> - Full stack development for [Planview Hub](https://www.planview.com/products-solutions/products/hub/)
+> - More details incoming
 
-> **Agile Developer Intern** @ *SAP* (May 2022 -- Dec. 2022)\
+> **Agile Developer Intern** @ [*SAP* ](https://www.sap.com/canada/) (May 2022 -- Dec. 2022)\
 > *JavaScript, Python, Java, Jasmine, Selenium, Docker, Jenkins*
-> - Fullstack development for SAP Analytics Cloud & Analytics Hub (mainly with JavaScript)
-> - Migrated message queue providers for backend data deletion workflows, and coordinated with cross-team dependencies to ensure zero service downtime
+> - Full stack development for [SAP Analytics Cloud](https://www.sap.com/canada/products/technology-platform/cloud-analytics.html) & Analytics Hub (mainly w/ JavaScript)
+> - Migrated message queue providers for backend data deletion workflows, coordinating with cross-team dependencies to ensure zero service downtime
 > - Created a data transfer pipeline w/ Airflow to migrate user data between cloud platform regions
 > - Wrote automated unit and integration tests with Jasmine and Selenium
 > - Used Jenkins to conduct bi-weekly service deployments to production landscapes
-
+<!-- 
 ---
 
 ## Coursework
@@ -87,4 +88,4 @@ Every course I have ever taken.
 - CMPT 120 - Intro to Computer Science and Programming I
 - CMPT 105W - Process of Professional Writing
 - MACM 101 - Discrete Math I
-- MATH 151 - Calculus I
+- MATH 151 - Calculus I -->
