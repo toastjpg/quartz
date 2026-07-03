@@ -1,4 +1,4 @@
 ---
 title: posts
 ---
-A collection of posts related to my experiences, projects, or just whatever I feel like putting here.
+Content that isn't going on the Substack, but I still want to share

@@ -1,22 +1,25 @@
 ---
-title: Experience
+title: experience
 ---
 ## Education
-> **Simon Fraser University** (Sept. 2020 -- Present)
+> **Simon Fraser University** (Jun. 2026)
 > - Bachelor of Science, Major in Computing Science
-> - Cumulative GPA: 3.81/4.33
+> - Cumulative GPA: 3.83/4.33
 
 ## Work Experience
 > **Software Engineer Co-op** @ [*Planview*](https://www.planview.com/) (Jan. 2025 -- Aug. 2025)\
-> *Java, JavaScript, Springboot, React*
+> *Java, TypeScript, JavaScript, Spring Boot, React, Angular, Docker, Jest, Jenkins*
 > - Full stack development for [Planview Hub](https://www.planview.com/products-solutions/products/hub/)
-> - More details incoming
+> - Built activity dashboards in React/Java Spring Boot to visualize historical integration events
+> - Created a reconciliation feature to automatically resolve out-of-sync integration pairs
+> - Monitored live production traffic/health in Datadog to troubleshoot degraded customer integrations
+> - Coordinated and conducted release cycles, identifying stable builds and validating quality sign-offs
 
 > **Agile Developer Intern** @ [*SAP* ](https://www.sap.com/canada/) (May 2022 -- Dec. 2022)\
 > *JavaScript, Python, Java, Jasmine, Selenium, Docker, Jenkins*
-> - Full stack development for [SAP Analytics Cloud](https://www.sap.com/canada/products/technology-platform/cloud-analytics.html) & Analytics Hub (mainly w/ JavaScript)
+> - Full stack development for [SAP Analytics Cloud](https://www.sap.com/canada/products/technology-platform/cloud-analytics.html) & Analytics Hub (mostly w/ JavaScript)
 > - Migrated message queue providers for backend data deletion workflows, coordinating with cross-team dependencies to ensure zero service downtime
-> - Created a data transfer pipeline w/ Airflow to migrate user data between cloud platform regions
+> - Created a data transfer pipeline w/ Airflow to migrate system data between cloud platforms and regions
 > - Wrote automated unit and integration tests with Jasmine and Selenium
 > - Used Jenkins to conduct bi-weekly service deployments to production landscapes
 <!-- 
