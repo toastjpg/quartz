@@ -1,5 +1,5 @@
 ---
-title: 🍞home
+title: 🍞 home
 ---
 
 ![[image.jpg|500]]
